@@ -1,6 +1,9 @@
 macaroons-compatibility-test-suite
 ==================================
 
+a.k.a. Technology Compatibility Kit
+-----------------------------------
+
 There is a growing number of projects out there, which implement Macaroons.
 Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification.
 A few projects are listed on http://macaroons.io/
